@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { Link, Route, Switch } from "react-router-dom";
 import { useContext } from "react";
 import Context from "../Context";
-import theme from "../theme";
 
 const Style = styled.div`
   position: absolute;
